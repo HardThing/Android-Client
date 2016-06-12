@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ShetuanPlus</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="actionbar_back">返回</string>
+    <string name="reg_phone">手机</string>
+    <string name="reg_email">邮箱</string>
+    <string name="reg_input_phone">请输入手机号</string>
+    <string name="reg_input_email">请输入邮箱</string>
+    <string name="reg_input_passwd">请输入6~20位密码</string>
+    <string name="reg_confirm_passwd">请确认密码</string>
+    <string name="reg_input_captcha">请输入验证码</string>
+    <string name="reg_get_captcha">获取验证码</string>
+    <string name="reg_get_captcha_stopwatch_unit">s</string>
+    <string name="reg_register">注册</string>
+    <string name="reg_error_account_has_reigster">该账号已经注册，请登录</string>
+    <string name="reg_error_phone_empty">请输入手机号</string>
+    <string name="reg_error_email_empty">请输入邮箱</string>
+    <string name="reg_error_passwd_empty">请输入密码</string>
+    <string name="reg_error_confirm_passwd_empty">请确认密码</string>
+    <string name="reg_error_captcha_empty">请输入验证码</string>
+    <string name="reg_error_phone_illegal">请输入正确的手机号</string>
+    <string name="reg_error_email_illegal">请输入正确的邮箱</string>
+    <string name="reg_error_passwd_illegal">密码长度有误</string>
+    <string name="reg_error_captcha_illegal">验证码长度有误</string>
+    <string name="reg_error_passwd_short">输入至少6位密码</string>
+    <string name="reg_error_passwd_long">输入至多20位密码</string>
+    <string name="reg_error_confirm_passed_not_equal">2次密码输入不一致</string>
+    <string name="reg_error_captcha_error">验证码错误</string>
+    <string name="reg_error_captcha_timeout">验证码过期，请重新获取</string>
+    <string name="login_username">手机或邮箱</string>
+    <string name="login">登录</string>
+    <string name="comfirm">确认</string>
+    <string name="commit">提交</string>
+    <string name="find_passwd">找回密码</string>
+    <string name="set_new_passwd">设置新密码</string>
+    <string name="login_register">注册账号</string>
+    <string name="login_forget_passwd">忘记密码</string>
+    <string name="login_error_username_empty">请输入手机号或邮箱</string>
+    <string name="login_error_username_illegal">请输入正确的手机号或邮箱</string>
+    <string name="login_error_login_faild">用户名或密码错误</string>
+    <string name="homepage_plaza">广场</string>
+    <string name="homepage_activity">活动</string>
+    <string name="homepage_club">社团</string>
+    <string name="homepage_user">个人中心</string>
+
+</resources>
